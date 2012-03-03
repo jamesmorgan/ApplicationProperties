@@ -1,1 +1,5 @@
-# Hosting applicaiton properties
+# Hosting application properties
+
+Used for storing application properties which need to be hosted e.g. update versions
+
+Ideal for Android apps which can perform simple http lookup, parse file and perform some action
